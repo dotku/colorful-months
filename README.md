@@ -1,5 +1,7 @@
 # Colorful Months
 
+## By Worldwide Holidays 
+
 * 01 Golden Black
 * 02 Love Pink
 * 03 Woman Month, Purple
@@ -12,3 +14,7 @@
 * 10 Civilization Month: Ground Yellow, Clean White
 * 11 Harvest Month: Goldean Yellow, Fire Red
 * 12 Ending Month: Ending Black, Clear White, New Green, Holiday's Red
+
+## By Jewlery
+
+![Color of Month](https://www.color-meanings.com/wp-content/uploads/birthstone-colors.png)
