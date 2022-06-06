@@ -5,7 +5,7 @@
 * 03 Woman Month, Purple
 * 04 Fool Red/White
 * 05 Mother's Deep Pink/Asian Red
-* 06 Rainbow Pride
+* 06 Pride Month: Rainbow
 * 07 Politician Month: Red, Blue, White
 * 08 Army's Month: Deep Green, Ocean/Sky Blue
 * 09 Senior's Month: Black, Gray, Yellow Pink, Twilight Blue
