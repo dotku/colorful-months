@@ -15,6 +15,6 @@
 * 11 Harvest Month: Goldean Yellow, Fire Red
 * 12 Ending Month: Ending Black, Clear White, New Green, Holiday's Red
 
-## By Jewlery
+## By Jewelry
 
 ![Color of Month](https://www.color-meanings.com/wp-content/uploads/birthstone-colors.png)
